@@ -1,0 +1,26 @@
+{
+  "name": "cachalot",
+  "version": "0.0.0",
+  "description": "Cache store for a lot types of storage",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gobwas/cachalot.js.git"
+  },
+  "keywords": [
+    "cache",
+    "store",
+    "node",
+    "browser",
+    "rotating"
+  ],
+  "author": "Sergey Kamardin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gobwas/cachalot.js/issues"
+  },
+  "homepage": "https://github.com/gobwas/cachalot.js"
+}
